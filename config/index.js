@@ -4,7 +4,7 @@ module.exports = {
   siteTitle: "Anastasia Portfolio",
   siteShortTitle: "A/M.", // Used as logo text in header, footer, and splash screen
   siteDescription: "anas portfolio",
-  siteUrl: "https://gatsby-starter-portfolio-minimal.netlify.app/",
+  siteUrl: "https://anastasia-mendoza.netlify.app/",
   siteLanguage: "en_US",
   siteIcon: "content/favicon-96x96.png", // Relative to gatsby-config file
   seoTitleSuffix: "", // SEO title syntax will be e.g. "Imprint - {seoTitleSuffix}"
